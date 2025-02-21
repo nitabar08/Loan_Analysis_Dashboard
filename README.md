@@ -1,3 +1,4 @@
+![Loan_Analysis_Dashboard](Image.png)
 A Power BI dashboard providing insights into loan distribution, repayment status, delinquency rates, interest rates, and borrower demographics.
 
 **How to Use:** 
